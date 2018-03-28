@@ -1,0 +1,36 @@
+*{
+text-align: center;
+list-style: none;
+font-family: 'Georgia', serif;
+}
+
+a{
+color: black;
+}
+
+body{
+
+background: #007958;
+}
+
+header{
+transform: translate(-25%,-25);
+text-align: center;
+
+}
+
+header h1{
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+  font-size: 5em;
+  color: rgba(0,255,0,.1);
+}
+
+
+button{
+height: 100px;
+width: 100px;
+border-radius: 50%;
+
+}
